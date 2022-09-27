@@ -1,5 +1,5 @@
 # SMaRT-demo-app-android
-##A downloadable pre-release of the app.
+## A downloadable pre-release of the app.
 This demo shows how easy it is to use. 
 It just takes 3 steps:
 Step 1: download and install the app on a smartphone

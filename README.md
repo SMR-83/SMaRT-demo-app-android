@@ -2,6 +2,7 @@
 ## A downloadable pre-release of the app.
 This demo shows how easy it is to use. 
 It just takes 3 steps:
+
 Step 1: download and install the app on a smartphone
 Step 2 tap "start"
 Step 3. point your smartphone at the demo template 

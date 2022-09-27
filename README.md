@@ -4,7 +4,11 @@ This demo shows how easy it is to use.
 It just takes 3 steps:
 
 Step 1: download and install the app on a smartphone
+
 Step 2 tap "start"
+
 Step 3. point your smartphone at the demo template 
 
-When the app recognizes the template and the light conditions are within range, the app will automatically capture an image.
+When the app recognizes the template and the light conditions are within range,
+
+the app will automatically capture an image.

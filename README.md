@@ -10,5 +10,4 @@ Step 2 tap "start"
 Step 3. point your smartphone at the demo template 
 
 When the app recognizes the template and the light conditions are within range,
-
 the app will automatically capture an image.
